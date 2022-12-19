@@ -8,7 +8,7 @@ Esse seletor é indicado pelo simbolo de `&`;
 
 **Exemplos |>**
 
-	1
+1.
 ```scss
 p {
 
@@ -19,7 +19,7 @@ p {
 }
 ````
 
-	2
+2.
 ```scss
 .btn {
 	color: yellow;
