@@ -14,7 +14,7 @@ Mixins são um dos poderes para se ter blocos de codigo mais reutilizaveis quand
 ```
 
 - Assim que criados, para serem usados podemos inclui-los dentro de um determinado elemento passando seus devidos argumentos:
-```scss.
+```scss
 btn-laranja {	
 	@extend .btn;
 	@include button-style($background, $color);
