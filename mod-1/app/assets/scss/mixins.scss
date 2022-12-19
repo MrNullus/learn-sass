@@ -1,0 +1,11 @@
+@mixin button-style($background, $color) {
+	background: $background;
+	color: $color;
+
+	&:hover {
+		background: desaturate($background, 5%);
+		color: mix($color, purple);
+		text-decoration-style: dotted;
+		text-decoration-color: grayscale($background);
+	}
+}

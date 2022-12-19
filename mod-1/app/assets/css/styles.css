@@ -1,0 +1,41 @@
+.btn {
+  display: block;
+  width: 200px;
+  background: none;
+  margin: 10px;
+  padding: 10px 0;
+  border: 0;
+  border-radius: 10px;
+}
+.btn.btn-laranja {
+  background: orange;
+  color: #fff;
+}
+.btn.btn-laranja:hover {
+  background: #f9a306;
+  color: #c080c0;
+  text-decoration-style: dotted;
+  text-decoration-color: gray;
+}
+.btn.btn-purple {
+  background: purple;
+  color: #fff;
+}
+.btn.btn-purple:hover {
+  background: #7d037d;
+  color: #c080c0;
+  text-decoration-style: dotted;
+  text-decoration-color: #404040;
+}
+.btn.btn-yellow {
+  background: yellow;
+  color: #000;
+}
+.btn.btn-yellow:hover {
+  background: #f9f906;
+  color: #400040;
+  text-decoration-style: dotted;
+  text-decoration-color: gray;
+}
+
+/*# sourceMappingURL=styles.css.map */
